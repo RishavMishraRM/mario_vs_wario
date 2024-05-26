@@ -1,3 +1,7 @@
 # Mario_vs_Wario
 
-Here I am using Mlflow, Github Actions & DAGSHUB for version controls
+Here I am using
+
+1. Mlflow,
+2. Github Actions &
+3. DAGSHUB for version controls
