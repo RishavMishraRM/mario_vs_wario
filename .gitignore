@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints
+scrt.py
+*.pyc
+/models
+/metrics.csv
+/params.yml
+/artifactsdata/
+idea
